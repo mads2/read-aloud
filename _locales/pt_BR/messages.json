@@ -1,0 +1,80 @@
+{
+  "extension_name": {
+    "message": "Read Aloud: Um sintetizador de texto"
+  },
+  "extension_short_name": {
+    "message": "Read Aloud"
+  },
+  "extension_description": {
+    "message": "Leia a pagina atual com um click. Suporta mais de 40 linguas."
+  },
+  "options_heading": {
+    "message": "Opções"
+  },
+  "options_voice_label": {
+    "message": "Voz"
+  },
+  "options_voicegroup_standard": {
+    "message": "Vozes padrões"
+  },
+  "options_voicegroup_premium": {
+    "message": "Vozes premium"
+  },
+  "options_rate_label": {
+    "message": "Velocidade"
+  },
+  "options_rate_warning": {
+    "message": "Nota: algumas vozes podem não funcionar em altas velocidades."
+  },
+  "options_pitch_label": {
+    "message": "Tom de voz"
+  },
+  "options_volume_label": {
+    "message": "Volume"
+  },
+  "options_show_highlighting": {
+    "message": "Marcar texto"
+  },
+  "options_hotkeys_link": {
+    "message": "Editar teclas de atalho"
+  },
+  "options_save_button": {
+    "message": "Salvar"
+  },
+  "options_reset_button": {
+    "message": "Resetar"
+  },
+  "options_success_status": {
+    "message": "Alterações salvas."
+  },
+  "context_read_selection": {
+    "message": "Read aloud selected text"
+  },
+  "error_no_text": {
+    "message": "Não encontrei nenhum texto para ler"
+  },
+  "error_no_voice": {
+    "message": "Lingua não suportada'{lang}'"
+  },
+  "error_upload_pdf": {
+    "message": "Por favor utilize o formulario para upar o seu PDF para ler em voz alta"
+  },
+  "error_page_unreadable": {
+    "message": "Não é possivel ler este site em voz alta"
+  },
+  "languages_heading": {
+    "message": "Selecionar linguas"
+  },
+  "languages_back_button": {
+    "message": "Voltar para as opções"
+  },
+  "google_translate_request_permission": {
+    "message": "O Read Aloud gostaria de usar o Google Translate para sintetizar a voz."
+  },
+  "google_translate_allow_button": {
+    "message": "Permitir"
+  },
+  "google_translate_keep_page_open": {
+    "message": "O Read Aloud esta usando o Google Tradutor para sintetizar a voz.  Por favor mantenha esta aba aberta."
+  }
+}
